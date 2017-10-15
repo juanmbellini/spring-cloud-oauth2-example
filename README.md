@@ -1,4 +1,4 @@
-# Spring Cloud OAuth2 Example [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0) [![Build Status](https://travis-ci.org/juanmbellini/spring-cloud-oauth2-example.svg?branch=master)](https://travis-ci.org/juanmbellini/spring-boot-example)
+# Spring Cloud OAuth2 Example [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](http://www.apache.org/licenses/LICENSE-2.0) [![Build Status](https://travis-ci.org/juanmbellini/spring-cloud-oauth2-example.svg?branch=master)](https://travis-ci.org/juanmbellini/spring-cloud-oauth2-example)
 
 An example authorization server using Spring Cloud and OAuth 2
 
